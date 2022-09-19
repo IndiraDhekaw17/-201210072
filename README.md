@@ -1,4 +1,4 @@
-# rekweb-201210072
+# 201210072
 Tugas Mingguan 1
 
 Hallo!
